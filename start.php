@@ -2,7 +2,7 @@
 
 <html>
 <body>
-
+<strong>Test code to show the session.gc_maxlifetime value in the PHP.INI file <br></strong>
 <?php
 //retrieve session data
 ini_set ( "session.gc_maxlifetime" , "1800" );

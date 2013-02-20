@@ -9,7 +9,7 @@
 */
 
 session_start();
-echo "<strong>Testing PHP session timeout code here</strong>";
+echo "<strong>Testing PHP session timeout code here. test determining time difference in seconds.</strong>";
 var_dump($_SESSION);
 
 testSession();

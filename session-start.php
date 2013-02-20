@@ -6,7 +6,7 @@
  */
 session_start();
 
-echo "session.gc_maxlifetime is " . ini_get('session.gc_maxlifetime');
+//echo "session.gc_maxlifetime is " . ini_get('session.gc_maxlifetime');
 
 // store session data
 $_SESSION['helen']=1;
