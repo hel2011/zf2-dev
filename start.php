@@ -1,4 +1,7 @@
-
+<?php
+/* This is version 2
+*/
+?>
 
 <html>
 <body>
